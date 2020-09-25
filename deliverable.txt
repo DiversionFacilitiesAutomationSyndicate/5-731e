@@ -1,3 +1,5 @@
 This represents a deliverable of this repository. This is the initial version.
 
 This text has been added since the 2020 release.
+
+This is a proposed addition that will be discussed via pull request.
